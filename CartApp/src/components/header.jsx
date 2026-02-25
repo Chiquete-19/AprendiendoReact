@@ -2,7 +2,7 @@ export const Header =()=>{
     return (
         <>
             <h1>
-                Holaperrijos
+                Holaperrijos putma
             </h1>
         </>
     );
